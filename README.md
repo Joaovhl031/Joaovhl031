@@ -1,5 +1,5 @@
 # 🚀Joao Henrique
-| Sou estudante de Desenvovimento de sistemas a maiso ou menos um ano foco em desenvolvimento em Front-end, pronto para mergulhar no mundo profissional. Gosto de desafios e resolver problemas que me tiram da zona de conforto. Sou apaixonado em tecnologias e explorar coisas novas.
+| Sou estudante de Engenharia de Software a maiso ou menos um ano foco em desenvolvimento em Front-end, pronto para mergulhar no mundo profissional. Gosto de desafios e resolver problemas que me tiram da zona de conforto. Sou apaixonado em tecnologias e explorar coisas novas.
 | --- |
 ## 📞 Contato
 
